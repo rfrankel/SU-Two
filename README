@@ -1,0 +1,11 @@
+Code to view quaternionic polytopes in spherical space
+with the help of Geomview. 
+
+Written in Objective C. 
+It registers new TCL commands so can be used with a script interface. 
+
+However, I know now that there are much better scripting interfaces. 
+This code has been superceded by the Symmetriad code. 
+
+If you try to compile it, note that it depends on an old version of Tcl and Tk. 
+
